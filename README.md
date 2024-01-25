@@ -29,7 +29,7 @@
 1. **Run the command in terminal of your code editor**  
 ```python 
 
-    pip install Requirement.txt
+    pip install requirments.txt
 
 ```
 2. **run the command**  
