@@ -20,6 +20,7 @@
 
 - **Install python install in your Machine and the python version should be 3.11 or any above version** 
 -  **Setup a python environment and activate it**
+-  **Create an google generative ai api key from [here](https://makersuite.google.com/app/apikey)**
 
 
 >Setup process :  
@@ -32,7 +33,11 @@
     pip install requirments.txt
 
 ```
-2. **run the command**  
+2. **create a " .env " file and add your api key**
+```
+  GOOGLE_API_KEY="Your api key"
+```
+3. **run the command**  
   ```python
   streamlit run app.py
   ```
