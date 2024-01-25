@@ -20,5 +20,7 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
-#generativeai api key
+#ignoring the environment
 .env
+#ignoring the .env file which is contain api key
+env
