@@ -21,6 +21,6 @@ rad.json
 #Test results file
 TestResults.xml
 #ignoring the environment
-.env
-#ignoring the .env file which is contain api key
 env
+#ignoring the .env file which is contain api key
+.env
