@@ -30,7 +30,7 @@
 1. **Run the command in terminal of your code editor**  
 ```python 
 
-    pip install requirments.txt
+    pip install -r requirments.txt
 
 ```
 2. **create a " .env " file and add your api key**
